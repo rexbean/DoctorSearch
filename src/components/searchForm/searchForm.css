@@ -1,0 +1,7 @@
+.searchInput {
+  display: inline-block;
+}
+
+.ui.form input.searchInput {
+  width: 50%;
+}

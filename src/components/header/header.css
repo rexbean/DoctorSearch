@@ -1,0 +1,10 @@
+img.menu {
+  width: 25%;
+}
+#menuTitle {
+  color: darkblue;
+  font-size: 20px;
+  position: relative;
+  left: 10%;
+  padding: 10px;
+}

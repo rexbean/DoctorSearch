@@ -1,0 +1,8 @@
+@media all and (min-width: 800px) {
+  .ui.container {
+    width: 60%;
+  }
+}
+.ui.pagination.menu {
+  margin: 20px 20px;
+}

@@ -1,0 +1,21 @@
+#doctorName {
+  color: blue;
+  margin-bottom: 0px;
+  font-size: 20px;
+}
+
+.doctorInfo,
+p {
+  text-align: left;
+}
+
+ul {
+  margin-bottom: 10px;
+}
+
+p {
+  margin-bottom: 12px;
+}
+.list {
+  margin-block-start: 0 !important;
+}

@@ -1,0 +1,3 @@
+export const ASYNC_START = "ASYNC_START";
+export const GET_DOCTORS_SUCCESS = "GET_DOCTORS_SUCCESS";
+export const ASYNC_ERROR = "ASYNC_ERROR";

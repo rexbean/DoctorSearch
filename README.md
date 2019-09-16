@@ -1,2 +1,0 @@
-# DoctorSearch
-Created with CodeSandbox
